@@ -28,16 +28,8 @@ Font Awesome – for icons and fonts
 
 Download the libraries and place them in the following locations:
 
-static/
-└── vendor/
-    ├── bootstrap/
-    │   ├── css/
-    │   ├── js/
-    │   └── ...
-    └── fontawesome/
-        ├── css/
-        ├── webfonts/
-        └── ...
+![Community Fund Illustration](static/images/file_structure.png)
+
 
 Installation Steps
 
