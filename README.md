@@ -28,8 +28,7 @@ Font Awesome – for icons and fonts
 
 Download the libraries and place them in the following locations:
 
-![Community Fund Illustration](static/images/file_structure.png)
-
+![Community Fund Illustration](static/img/file_structure.png)
 
 Installation Steps
 
