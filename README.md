@@ -1,4 +1,5 @@
 Community Fund System
+=====================
 
 A Community Fund System is a platform inspired by a ROSCA (Rotating Savings and Credit Association).
 
