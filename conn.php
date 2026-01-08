@@ -1,7 +1,7 @@
 <?php
  $host = 'localhost';
  $user = 'root';
- $password = '@12644944';
+ $password = '';
  $database = 'community_fund';
  
  $conn = new mysqli($host,$user,$password,$database);
